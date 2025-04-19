@@ -1,4 +1,6 @@
-# PPIxGPN: plasma proteomic profiling of neurodegenerative biomarkers with protein-protein interaction-based explainable graph propagational network
+# PPIxGPN
+
+## Plasma proteomic profiling of neurodegenerative biomarkers with protein-protein interaction-based explainable graph propagational network
 
 ## Research Interests
 - <b>Graph-based Machine Learning</b>  
