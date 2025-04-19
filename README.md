@@ -1,5 +1,17 @@
 # PPIxGPN: plasma proteomic profiling of neurodegenerative biomarkers with protein-protein interaction-based explainable graph propagational network
 ---
+# Portfolio
+Researches on machine learning algorithms and those applications in various fields
+
+
+---
+
+## Research Interests
+- <b>Graph-based Machine Learning</b>  
+  - <b>Graph Representation:</b> Graph Integration, Graph Comparison, Graph Embedding
+  - <b>Semi-Supervised Learning:</b> Label Propagation, Optimization
+  - <b>Domain Adaptation:</b> Transfer Learning, Heterogeneous Feature Adaptation, Multi-Modal Data, Longitudinal Data
+
 ## Plasma proteomic profiling of neurodegenerative biomarkers with protein-protein interaction-based explainable graph propagational network
 
 ## Research Interests
