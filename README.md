@@ -61,14 +61,13 @@ Given that $d$ and $n$ are the numbers of target proteins and study participants
 <b>MATLAB (version R2024b)</b>
 
 - <b>Data setting</b>
-  - Xdata: Independent effect of target proteins
-  - Ydata: Real diagnosis label set for biomarkers
+  - Xdata: independent effect of target proteins
+  - Ydata: real diagnosis label set for biomarkers
   - Split two data into train/valid/test sets
 
 - <b>Parameter setting</b>
-  - Uppi: Propagation parameter
-  - Babt, Bgfa, Bnfl, Btau: Estimation parameters
-  - Babt, Bgfa, Bnfl, Btau: Estimation parameters
+  - Uppi: propagation parameter
+  - Babt, Bgfa, Bnfl, Btau: estimation parameters
 
 - <b>Model parameter</b>
   - epoch: maximum number of epoch
