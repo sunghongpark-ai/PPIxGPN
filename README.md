@@ -59,6 +59,11 @@ Given that $d$ and $n$ are the numbers of target proteins and study participants
 ### Code description
 
 <b>MATLAB (version R2024b)</b>
+- <b>Software</b>
+  - MATLAB (version R2024b)
+
+- <b>Main code</b>
+  - PPIxGPN
 
 - <b>Data setting</b>
   - Xdata: independent effect of target proteins
